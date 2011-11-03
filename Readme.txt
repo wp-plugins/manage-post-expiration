@@ -4,7 +4,7 @@ Contributors: Cyberlobe Technologies
 Tags: expire post manage date
 Requires at least: 1.5
 Tested up to: 3.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 
 == Description ==

@@ -4,7 +4,7 @@ Plugin Name: Manage Expire Post
 Plugin URI: 
 Description: Allows you to expires a post after Specified date
 Author: Cyberlobe Technologies
-Version: 1.0.1
+Version: 1.0.2
 Author URI: 
 */
 ?>
