@@ -18,7 +18,7 @@ Manage Post Expiration plugin basically helps to set an expiry date for the post
 
 == Changelog ==
 
-This is the first version of the Manage Post Expiration plugin.
+Solved bugs related to other plugins.
 
 == License ==
 
